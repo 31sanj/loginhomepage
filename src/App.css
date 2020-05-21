@@ -1,0 +1,48 @@
+.container {
+    display: flex;
+    justify-content:center;
+    
+    
+    height: 400px;}
+
+
+.flex-container{
+    display: block;
+    
+}
+
+.form{
+
+    background-color: white;
+    width: 400px;
+    border: 15px solid blue;
+    padding: 30px;
+    margin: 20px;
+    border: outset;
+    position:fixed;
+    top:10%;
+    
+   
+}
+
+.toolbar{
+    position: fixed;
+    width: 100%;
+    border: outset;
+    
+
+}
+    
+.navigation_bar{
+    display:flex;
+   justify-content: flex-end;
+    }
+
+
+.btn{
+    padding: 9px 25px;
+    background-color:blue;
+    border:solid;
+    border-radius: 50px;;
+    
+}
